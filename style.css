@@ -71,6 +71,9 @@ img {
     text-align: center;
 }
 
+.produtos__informacoes h1 {
+    font-size: 2.0rem;
+}
 .produtos__informacoes h4 {
     font-size: 1.5rem;
 }
