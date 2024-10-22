@@ -35,6 +35,9 @@ h1 {
 }
 
 .produtos__lista {
+    list-style-type: none;
+}
+.produtos__lista {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
